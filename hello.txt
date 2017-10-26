@@ -1,4 +1,6 @@
-print("hello world");
-print("123");
-print("рш");
+print('hello world');
+print('123');
+print('рш');
+print('хай');
+print('вносим изменения');
 end.
